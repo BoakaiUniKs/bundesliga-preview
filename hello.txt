@@ -1,1 +1,1 @@
-"hello, Bundesliga!" 
+hello, bundesliga!
